@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: calibri;
+    padding: 40px;
+}
+li{
+    font-size: 1.3em;
+    margin: 3px 50px;
+}
